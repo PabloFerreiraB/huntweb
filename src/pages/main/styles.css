@@ -23,9 +23,9 @@
     height: 42px;
     border-radius: 8px;
     border: 1px solid #d2d2d2;
-    background: none;
+    background: #061F2F;
     margin-top: 10px;
-    color: #061F2F;
+    color: #fff;
     font-size: 16px;
     text-decoration: none;
     display: flex;
@@ -35,8 +35,7 @@
 }
 
 .product-list article a:hover {
-    background: #061F2F;
-    color: #fff;
+    opacity: 0.7;
 }
 
 .product-list .actions {
