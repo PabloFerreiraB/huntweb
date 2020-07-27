@@ -1,7 +1,12 @@
+.App {
+    background: #101E26;
+}
+
 header#main-header {
     width: 100%;
     height: 60px;
-    background: #da4;
+    background: #061F2F;
+    border-bottom: 1px solid #8899a6;
     color: #fff;
     font-size: 18px;
     font-weight: bold;
