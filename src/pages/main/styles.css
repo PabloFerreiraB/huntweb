@@ -6,7 +6,7 @@
 
 .product-list article {
     background: #fff;
-    border: 1px solid #8899a6;
+    border: 1px solid #d2d2d2;
     border-radius: 10px;
     padding: 20px;
     margin-bottom: 20px;
@@ -22,7 +22,7 @@
 .product-list article a {
     height: 42px;
     border-radius: 8px;
-    border: 1px solid #061F2F;
+    border: 1px solid #d2d2d2;
     background: none;
     margin-top: 10px;
     color: #061F2F;
@@ -46,10 +46,11 @@
 
 .product-list .actions button {
     padding: 10px 50px;
+    background: #061F2F;
     border-radius: 8px;
-    border: 1px solid #fff;
+    border: 1px solid #d2d2d2;
     margin-bottom: 30px;
-    color: #061F2F;
+    color: #fff;
     font-size: 16px;
     cursor: pointer;
     transition: all 0.3s;
